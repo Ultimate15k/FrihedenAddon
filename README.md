@@ -24,6 +24,7 @@ Frihedenaddon er et Freakyville addon der tilføjer
 # Changelog
 <details>
   <summary>Klik for at se changelog</summary>
+  
 **Version 1.2**
 - Tilføjet /renter
 - Optimeret en del filer
